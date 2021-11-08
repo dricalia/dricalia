@@ -1,8 +1,8 @@
 <h3> :woman_technologist:&nbsp;Sobre mim </h3>
 
 
-- 🔭 Atualmente estou estudando, explorando novas tecnologias e desenvolvendo projetos pessoais.
-- 🎓 Estou estudando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
+- 🎓 Cursando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
+- 🔭 Estou explorando novas tecnologias e desenvolvendo projetos pessoais.
 - 😄 Pronomes: ela/dela.
 - 👯 Estou procurando estágios e cooperar em projetos Open Source.
 - 🤔 Quero unir meus conhecimentos em UX Design ao Desenvolvimento Front-end.
