@@ -1,10 +1,12 @@
 <h3> :woman_technologist:&nbsp;Sobre mim </h3>
-- 🔭 &nbsp; Atualmente estou estudando, explorando novas tecnologias e desenvolvendo projetos pessoais.
-- 🎓 &nbsp; Estou estudando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
+
+
+- 🔭 Atualmente estou estudando, explorando novas tecnologias e desenvolvendo projetos pessoais.
+- 🎓 Estou estudando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
 - 😄 Pronomes: ela/dela.
-- 👯 &nbsp; Estou procurando estágios e cooperar em projetos Open Source.
-- 🤔 &nbsp; Quero unir meus conhecimentos em UX Design ao Desenvolvimento Front-end.
-- 🌱 &nbsp; Estou aprendendo mais sobre lógica de programação e React Native.
+- 👯 Estou procurando estágios e cooperar em projetos Open Source.
+- 🤔 Quero unir meus conhecimentos em UX Design ao Desenvolvimento Front-end.
+- 🌱 Estou aprendendo mais sobre lógica de programação e React Native.
 - ⚡ Fun fact: o meu primeiro contato com um computador de fato foi as 19 anos, desde então aprendi tudo que sei.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
