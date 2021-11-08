@@ -1,16 +1,11 @@
-<h3> :woman_technologist:&nbsp;Drica Lia </h3>
-
-- 🔭 Atualmente estou estudando e desenvolvendo projetos pessoais como estudos de caso.
-- 👯 Estou buscando cooperar em projetos Open Source.
-- 🤔 Eu estou buscando unir meus conhecimentos em UX Design ao Desenvolvimento de Softwares.
+<h3> :woman_technologist:&nbsp;Sobre mim </h3>
+- 🔭 &nbsp; Atualmente estou estudando, explorando novas tecnologias e desenvolvendo projetos pessoais.
+- 🎓 &nbsp; Estou estudando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
 - 😄 Pronomes: ela/dela.
+- 👯 &nbsp; Estou procurando estágios e cooperar em projetos Open Source.
+- 🤔 &nbsp; Quero unir meus conhecimentos em UX Design ao Desenvolvimento Front-end.
+- 🌱 &nbsp; Estou aprendendo mais sobre lógica de programação e React Native.
 - ⚡ Fun fact: o meu primeiro contato com um computador de fato foi as 19 anos, desde então aprendi tudo que sei.
-
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Introdução à Ciência da Computação em <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">Harvard</a>.
-- 🌱 &nbsp; Aprendendo mais sobre React Native.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -19,8 +14,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
 
 **Ferramentas**
 
