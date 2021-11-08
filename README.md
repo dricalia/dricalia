@@ -42,5 +42,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Drica Lia](https://img.shields.io/badge/-dricalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dricalia/)](https://www.linkedin.com/in/dricalia/)
+[![Linkedin: Drica Lia](https://img.shields.io/badge/-Drica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dricalia/)](https://www.linkedin.com/in/dricalia/)
 [![Gmail Badge](https://img.shields.io/badge/-dricaliasimoes@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dricaliasimoes@gmail.com)](mailto:dricaliasimoes@gmail.com)
