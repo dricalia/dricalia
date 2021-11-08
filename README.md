@@ -32,7 +32,7 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=http://www.w3.org/2000/svg&logoColor=0074ACC )
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333)
 <br/>
 
 <a href="https://github.com/dricalia">
