@@ -1,10 +1,12 @@
+<h3> :woman_technologist:&nbsp;Drica Lia </h3>
+
 ![](https://komarev.com/ghpvc/?username=dricalia&color=006bed)
 
 - 🔭 Atualmente estou estudando e desenvolvendo projetos pessoais como estudos de caso.
-- 👯 Estou buscando atuar em projetos open-source.
-- 🤔 I’m looking for help with ...
+- 👯 Estou buscando cooperar em projetos Open Source.
+- 🤔 Eu estou buscando unir meus conhecimentos em UX Design ao Desenvolvimento de Softwares.
 - 😄 Pronomes: ela/dela.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: o meu primeiro contato com um computador de fato foi as 19 anos, desde então aprendi tudo que sei.
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
