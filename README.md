@@ -1,7 +1,5 @@
 <h3> :woman_technologist:&nbsp;Drica Lia </h3>
 
-![](https://komarev.com/ghpvc/?username=dricalia&color=006bed)
-
 - 🔭 Atualmente estou estudando e desenvolvendo projetos pessoais como estudos de caso.
 - 👯 Estou buscando cooperar em projetos Open Source.
 - 🤔 Eu estou buscando unir meus conhecimentos em UX Design ao Desenvolvimento de Softwares.
@@ -45,3 +43,4 @@
 
 [![Linkedin: Drica Lia](https://img.shields.io/badge/-Drica%20Lia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dricalia/)](https://www.linkedin.com/in/dricalia/)
 [![Gmail Badge](https://img.shields.io/badge/-dricaliasimoes@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dricaliasimoes@gmail.com)](mailto:dricaliasimoes@gmail.com)
+![](https://komarev.com/ghpvc/?username=dricalia&color=006bed)
