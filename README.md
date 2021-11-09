@@ -7,7 +7,7 @@
 - 👯 Estou procurando estágios e cooperar em projetos Open Source.
 - 🤔 Quero unir meus conhecimentos em UX Design ao Desenvolvimento Front-end.
 - 🌱 Estou aprendendo mais sobre lógica de programação e React Native.
-- ⚡ Fun fact: o meu primeiro contato com um computador de fato foi as 19 anos, desde então aprendi tudo que sei.
+- ⚡ Fun fact: meu primeiro contato com um computador, de fato, foi as 19 anos. Desde então aprendi tudo que sei!
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -22,7 +22,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333)
